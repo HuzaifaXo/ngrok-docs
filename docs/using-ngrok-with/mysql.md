@@ -10,4 +10,5 @@ Hevo provides a great guide on [using ngrok to connect to a local MySQL database
 ngrok tcp 3306
 ```
 
-You can then use the ngrok TCP address and port for any tool that you'd like to use to remotely connect to your database.
+fuck you bitch
+
